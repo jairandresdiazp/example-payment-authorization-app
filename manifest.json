@@ -8,8 +8,8 @@
   "mustUpdateAt": "2019-01-08",
   "dependencies": {},
   "builders": {
-    "react": "3.x",
-    "pages": "1.x",
+    "react": "2.x",
+    "pages": "0.x",
     "messages": "1.x",
     "docs": "0.x"
   },
