@@ -2,15 +2,15 @@
   "name": "example-payment-auth-app",
   "vendor": "vtex",
   "version": "1.0.7",
-  "title": "Example Payment Authentication App",
-  "description": "Example Payment Authentication App",
-  "defaultLocale": "en",
+  "title": "Example Payment App",
+  "description": "Example Payment App",
+  "defaultLocale": "es",
   "mustUpdateAt": "2019-01-08",
   "dependencies": {},
   "builders": {
-    "react": "2.x",
-    "pages": "0.x",
-    "messages": "0.x",
+    "react": "3.x",
+    "pages": "1.x",
+    "messages": "1.x",
     "docs": "0.x"
   },
   "scripts": {
