@@ -1,7 +1,7 @@
 {
-  "name": "example-payment-auth-app",
-  "vendor": "vtex",
-  "version": "1.0.7",
+  "name": "custom-components",
+  "vendor": "blacksipqa",
+  "version": "0.0.7",
   "title": "Example Payment App",
   "description": "Example Payment App",
   "defaultLocale": "es",
